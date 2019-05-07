@@ -1,8 +1,5 @@
 # code here!
 class School
-
-  roster = {}
-
-
-
+  def initialize(high_school)
+    @high_school = high_school
 end
