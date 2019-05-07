@@ -4,4 +4,8 @@ class School
     @high_school = high_school
     @roster = {}
   end
+
+  def roster
+    @roster
+  end
 end
